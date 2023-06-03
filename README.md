@@ -1,4 +1,4 @@
-# OSRmodel-application-example
+# Optimized segmented regression (OSR) model-application-example
 In this example, we will show in detail the application steps of OSR (OSR-ReLU & OSR-Sig) models, and publish the corresponding original dataset and MATLAB code.
 
 
